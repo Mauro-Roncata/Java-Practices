@@ -1,0 +1,26 @@
+# Arquivos de sistema do Mac
+.DS_Store
+
+# Arquivos compilados do Java (não precisamos subir o código binário)
+*.class
+bin/
+out/
+build/
+
+# Arquivos de configuração de IDEs (Editores)
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+# Maven files
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
